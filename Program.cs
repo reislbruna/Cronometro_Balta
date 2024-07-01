@@ -11,7 +11,7 @@ namespace Crono
 
             Menu();
             //Não posso esquecer de declara funções fora de main aqui, caso contrário elas não serão executadas.
-
+  
         }
 
         static void Menu()
