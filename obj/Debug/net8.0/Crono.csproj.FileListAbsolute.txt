@@ -1,0 +1,14 @@
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\bin\Debug\net8.0\Crono.exe
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\bin\Debug\net8.0\Crono.deps.json
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\bin\Debug\net8.0\Crono.runtimeconfig.json
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\bin\Debug\net8.0\Crono.dll
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\bin\Debug\net8.0\Crono.pdb
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.AssemblyInfoInputs.cache
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.AssemblyInfo.cs
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.csproj.CoreCompileInputs.cache
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.dll
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\refint\Crono.dll
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.pdb
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\Crono.genruntimeconfig.cache
+C:\Users\funci\Desktop\Estudos Programação\CsBalta\Cronometro\Crono\obj\Debug\net8.0\ref\Crono.dll
